@@ -1,0 +1,48 @@
+/* navbar */
+
+#title {
+  padding: 3% 10%;
+  background-color: #f59d18;
+  color: white;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.row {
+  padding: 16.3% 0;
+  font-size: 5rem;
+}
+
+.title-image {
+  height: 50%;
+  transform: rotate(-25deg);
+  margin: 0;
+}
+
+.nav {
+  font-size: 1.3rem;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.nav-brand {
+  font-size: 1.8rem;
+}
+
+.p2 {
+  color: white;
+}
+
+.Thank-you-msg {
+  font-size: 1.999rem;
+  font-family: "Caveat", cursive;
+  color: grey;
+}
+
+.thank-you {
+  color: #A9A9A9;
+  font-family: "Montserrat Alternates", cursive;
+  text-decoration: underline;
+}
